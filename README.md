@@ -7,7 +7,7 @@
 - [Requirements](#requirements)
 
 ## About the project
-Lists of tasks to perform using Bash in the Linux environment with solutions performed by me last semester in my Operating Systems class.
+Lists of tasks to perform using **Bash** in the **Linux** environment with **![solutions](Resolved "solutios")** performed by me last semester in my Operating Systems class.
 
 ## Usage
 Project can be used in practical way to learn and practice various aspects of shell scripting in a Unix/Linux environment, understanding how to write shell scripts to automate tasks.
